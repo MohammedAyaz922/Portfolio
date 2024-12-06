@@ -1,13 +1,16 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2021-03-01'
+title: 'Front End Developer'
+company: 'Sigma HealthTech'
+location: 'Toronto, ON'
+range: 'March 2021 – July 2022'
+url: 'https://sigmahealthtech.com/'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Analyzed, designed, and developed web pages using HTML5, CSS3, JavaScript, TypeScript, Bootstrap, Tailwind, and React.
+- Employed Agile methodologies (SCRUM) to manage and control iterative and incremental projects.
+- Developed UI components with Redux architecture, managing data flow effectively for the React application.
+- Built and maintained frontend screens using React and TypeScript, incorporating predefined components from NPM and Redux.
+- Created CSS templates and maintained consistent design, including layout enhancements with SASS.
+- Enhanced application to Progressive Web App (PWA) standards, improving accessibility and achieving WCAG certification.
+- Worked on deployment using Kubernetes and utilized AWS for cloud services.

@@ -1,11 +1,15 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2020-08-01'
+title: 'UI Developer'
+company: 'Docebo'
+location: 'Toronto, ON'
+range: 'August 2020 – January 2021'
+url: 'https://www.docebo.com/'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Collaborated closely with Business Analysts to comprehend technical requirements, drafting use cases for various functionalities and designs.
+- Developed client-side functionality using JavaScript, implementing validation, AJAX, and dynamic UI components with JQuery.
+- Utilized React and Redux to convert applications into Single Page Applications (SPAs) with smooth navigation.
+- Created prototypes with HTML and CSS, providing a consistent look and feel across pages.
+- Programmed JavaScript to enhance user experience, incorporating features like dropdown menus and pop-up screens.
+- Contributed to the creation of reusable UI templates and components, improving development efficiency.

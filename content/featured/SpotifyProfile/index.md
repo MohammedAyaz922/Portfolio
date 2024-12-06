@@ -1,15 +1,26 @@
 ---
-date: '2'
-title: 'Spotify Profile'
+date: '2024-11-21'
+title: 'Airbnb Clone'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
+github: 'https://github.com/MohammedAyaz922/airbnb-clone'
 external: 'https://spotify-profile.herokuapp.com/'
 tech:
   - React
-  - Styled Components
   - Express
-  - Spotify API
-  - Heroku
+  - Styled Components
+  - MongoDB
+  - Google OAuth 2.0
+  - JWT Authentication
+  - Stripe Payment Gateway
+showInProjects: false
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A full-stack Airbnb-inspired web application for managing vacation rentals. Users can sign up or log in using Google SSO or email authentication via JWT. Property owners can list their spaces for rent, while travelers can browse listings, book stays, and securely pay through the integrated Stripe payment gateway.
+
+The platform allows:
+
+1. User Authentication: OAuth 2.0 for Google login and JWT for email/password users.
+2. Listing Properties: Property owners can create and manage their listings.
+3. Booking Stays: Users can book vacation rentals and view their bookings.
+4. Secure Payments: Integrated Stripe for processing payments seamlessly.
+5. Responsive UI: A clean and intuitive interface built with React and styled components.
