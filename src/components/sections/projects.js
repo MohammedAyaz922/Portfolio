@@ -173,7 +173,7 @@ const Projects = () => {
           fileAbsolutePath: { regex: "/content/projects/" }
           frontmatter: { showInProjects: { ne: false } }
         }
-        sort: { fields: [frontmatter___date], order: DESC }
+        sort: { fields: [frontmatter___priority, frontmatter___date], order: [ASC, DESC] }
       ) {
         edges {
           node {
@@ -182,6 +182,7 @@ const Projects = () => {
               tech
               github
               external
+              priority
             }
             html
           }

@@ -4,6 +4,7 @@ title: 'Airbnb Clone'
 cover: './demo.png'
 github: 'https://github.com/MohammedAyaz922/airbnb-clone'
 external: 'https://spotify-profile.herokuapp.com/'
+priority: 2
 tech:
   - React
   - Express

@@ -4,6 +4,7 @@ title: 'Talk A Tive'
 cover: './talkative.png'
 github: 'https://github.com/MohammedAyaz922/Mern-Stack-Talkative'
 external: 'https://halcyon-theme.netlify.com/'
+priority: 3
 tech:
   - React
   - Node Js
