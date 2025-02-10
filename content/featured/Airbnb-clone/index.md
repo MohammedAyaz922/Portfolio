@@ -3,7 +3,8 @@ date: '2024-11-21'
 title: 'Airbnb Clone'
 cover: './demo.png'
 github: 'https://github.com/MohammedAyaz922/airbnb-clone'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://airbnb-clone-v2-xi.vercel.app/'
+cta: 'https://airbnb-clone-v2-xi.vercel.app/'
 priority: 2
 tech:
   - React

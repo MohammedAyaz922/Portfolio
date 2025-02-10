@@ -2,6 +2,7 @@
 date: '3'
 title: 'Learning Management Platform'
 cover: './lm-card.png'
+github: 'https://github.com/MohammedAyaz922/Learning-management-app'
 external: 'https://learning-management-app-isjk.vercel.app/'
 cta: 'https://learning-management-app-isjk.vercel.app/'
 priority: 1

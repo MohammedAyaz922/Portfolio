@@ -1,87 +1,80 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/MohammedAyaz922/PortfolioV/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  brittanychiang.com - v4
+  Mohammed Ayaz's Portfolio
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The personal portfolio of <a href="https://github.com/MohammedAyaz922" target="_blank">Mohammed Ayaz</a>, built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and deployed on <a href="https://vercel.com/" target="_blank">Vercel</a>.
 </p>
+
 <p align="center">
-  Previous iterations:
-  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
-  <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
-  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
-</p>
-<p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
+  <a href="https://github.com/MohammedAyaz922/PortfolioV" target="_blank">
+    <img src="https://img.shields.io/github/deployments/MohammedAyaz922/PortfolioV/production?label=vercel&logo=vercel" alt="Vercel Deployment Status" />
   </a>
+
+## 📌 About This Project
+
+This is my personal **portfolio website**, designed to showcase my work and projects.  
+Built using **Gatsby**, a modern **React-based static site generator**, it delivers optimized performance, SEO benefits, and fast page loads. The site is hosted on **Vercel** for seamless deployment and speed.
+
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/MohammedAyaz922/PortfolioV/main/src/images/demo.png)
 
-## 🚨 Forking this repo (please read!)
+## 📌 Pinned Projects
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+Here are some of the major projects featured in my portfolio:
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
+🔹 [**Learning Management Platform**](https://github.com/MohammedAyaz922/Learning-management-app) - Full-stack platform for managing online courses, built with **Next.js, AWS Lambda, and MongoDB**.
 
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+🔹 [**Airbnb Clone**](https://github.com/MohammedAyaz922/airbnb-clone) - Full-stack Airbnb-inspired booking system with **React, Node.js, MongoDB, and Stripe**.
 
-### TL;DR
+🔹 [**Threads App**](https://github.com/MohammedAyaz922/threads_app) - Social media platform where users can create and join communities, built with **Next.js, MongoDB, WebSockets, and Clerk authentication**.
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+🔹 [**MERN Chat App - Talkative**](https://github.com/MohammedAyaz922/Mern-Stack-Talkative) - Real-time chat application built with **React, Node.js, WebSockets, and MongoDB**.
 
-## 🛠 Installation & Set Up
+🔹 [**Daily Schedule App (React Native)**](https://github.com/MohammedAyaz922/Daily-schedule-react-native-app) - A mobile app for managing daily tasks and schedules, developed using **React Native**.
 
-1. Install the Gatsby CLI
+🔹 [**Fun Traveling App**](https://github.com/MohammedAyaz922/fun-travelling-app) - A fun and interactive travel app where users can explore and plan destinations, built with **React**.
 
-   ```sh
-   npm install -g gatsby-cli
-   ```
+## 🛠 Installation & Setup
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+### **1️⃣ Clone the Repository**
 
-   ```sh
-   nvm install
-   ```
+```sh
+git clone https://github.com/MohammedAyaz922/PortfolioV.git
+cd PortfolioV
 
-3. Install dependencies
+2️⃣ Install Dependencies
+npm install
 
-   ```sh
-   yarn
-   ```
+3️⃣ Start the Development Server
+npnm run dev
 
-4. Start the development server
+npm run dev
+4️⃣ Build for Production
 
-   ```sh
-   npm start
-   ```
+npm run build
 
-## 🚀 Building and Running for Production
+🎨 Color Reference
+Color	Hex
+Navy	#0a192f
+Light Navy
+#112240
+Lightest Navy
+#233554
+Slate	#8892b0
+Light Slate	#a8b2d1
+Lightest Slate	#ccd6f6
+White	#e6f1ff
+Green	#64ffda
+💡 Connect with me:
+📌 GitHub: @MohammedAyaz922
+📌 LinkedIn: www.linkedin.com/in/mohammed-ayaz-khan-120536220
+   Email: Mohammedayazk017@gmail.com
 
-1. Generate a full static production build
+   Inspied by: Brittany Chang
 
-   ```sh
-   npm run build
-   ```
-
-1. Preview the site as it will appear once deployed
-
-   ```sh
-   npm run serve
-   ```
-
-## 🎨 Color Reference
-
-| Color          | Hex                                                                |
-| -------------- | ------------------------------------------------------------------ |
-| Navy           | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) `#0a192f` |
-| Light Navy     | ![#112240](https://via.placeholder.com/10/0a192f?text=+) `#112240` |
-| Lightest Navy  | ![#233554](https://via.placeholder.com/10/303C55?text=+) `#233554` |
-| Slate          | ![#8892b0](https://via.placeholder.com/10/8892b0?text=+) `#8892b0` |
-| Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
-| Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
-| White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
-| Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+🚀 Portfolio is live at: PortfolioV
+```
